@@ -1,4 +1,4 @@
-# Prueba técnica Android - Openpay
+# Prueba Tecnica Android - Openpay
 
 Aplicación móvil para SO Android , basada en Kotlin MVVM architecture y material designs con librerias de compatibilidad, API mínima 21 .
 
