@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PT OpenPay JRGV</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_perfil">Perfil</string>
+    <string name="title_movies">Peliculas</string>
+    <string name="title_mapa">Mapa</string>
+    <string name="title_galeria">Multimedia</string>
+    <string name="label_name">Nombre</string>
+    <string name="label_rating">Popularidad</string>
+    <string name="label_username">Usuario</string>
+    <string name="label_created_at">Credo por: </string>
+
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_perfil">
+
+
+    <fragment
+        android:id="@+id/navigation_peliculas"
+        android:name="com.sngular.rgarciavital.view.peliculas.PeliculasFragment"
+        android:label="@string/title_movies"
+        tools:layout="@layout/fragment_peliculas" />
+    <fragment
+        android:id="@+id/navigation_perfil"
+        android:name="com.sngular.rgarciavital.view.perfil.PerfilFragment"
+        android:label="@string/title_perfil"
+        tools:layout="@layout/fragment_perfil" />
+    <fragment
+        android:id="@+id/navigation_multimedia"
+        android:name="com.sngular.rgarciavital.view.multimedia.MultimediaFragment"
+        android:label="@string/title_galeria"
+        tools:layout="@layout/fragment_multimedia" />
+    <fragment
+        android:id="@+id/navigation_mapa"
+        android:name="com.sngular.rgarciavital.view.mapa.MapsFragmentAPI"
+        android:label="@string/title_mapa"
+        tools:layout="@layout/fragment_mapa" />
+</navigation>

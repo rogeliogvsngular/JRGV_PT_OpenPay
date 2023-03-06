@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "94990127936",
+    "project_id": "tecnicaltest-973c4",
+    "storage_bucket": "tecnicaltest-973c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94990127936:android:7cbc2b945e8a11b578e0a5",
+        "android_client_info": {
+          "package_name": "com.sngular.rgarciavital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94990127936-6of1q3540rq2so47p4rfoavpijbco2fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYxE9tPp8y2AijrrRSs-I2UEicz9JDqQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94990127936-6of1q3540rq2so47p4rfoavpijbco2fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
